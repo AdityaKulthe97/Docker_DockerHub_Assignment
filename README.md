@@ -11,5 +11,6 @@ Create a hello world fastapi application. Create a Dockerfile for your fastapi h
 
 Assignment 4:
 Automate Assignment below task using github action.
-Build Docker Image
-Push Docker Image to Docker hub.
+
+1)Build Docker Image
+2)Push Docker Image to Docker hub.
